@@ -81,4 +81,14 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
+
 ```
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://https://x.com/Moaaz256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/moaaz-hamada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://www.facebook.com/share/1AW8CPwCoX/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
+<a href="https://discord.gg/vuWs7sWS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="30" /></a>
+</p>
